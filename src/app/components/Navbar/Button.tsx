@@ -1,10 +1,11 @@
 import React from "react";
 import styled from "styled-components";
+import { signIn } from "next-auth/react";
 
 const Button = () => {
   return (
     <StyledWrapper>
-      <button className="button">
+      <button className="button" onClick={() => signIn("google")}>
         <svg
           xmlns="http://www.w3.org/2000/svg"
           preserveAspectRatio="xMidYMid"
