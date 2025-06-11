@@ -12,7 +12,7 @@ export default function Footer() {
               <h1>Home</h1>
               <h1>Learning Hub</h1>
               <h1>Teachers</h1>
-              <h1>Help and Support</h1>
+              <h1>Hel and Support</h1>
               <h1>Scholarship</h1>
               <h1>Join</h1>
               <h1>Past Papers</h1>
