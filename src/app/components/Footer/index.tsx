@@ -8,7 +8,7 @@ export default function Footer() {
           <div className=""></div>
           <div className="lg:w-1/2 max-lg:w-full flex flex-row lg:justify-around max-lg:justify-center max-lg:gap-8 items-start">
             <div className="flex flex-col text-lg justify-start gap-2 items-start">
-              <h1 className="font-bold ">Resorces</h1>
+              <h1 className="font-bold ">Reorces</h1>
               <h1>Home</h1>
               <h1>Learning Hub</h1>
               <h1>Teachers</h1>
